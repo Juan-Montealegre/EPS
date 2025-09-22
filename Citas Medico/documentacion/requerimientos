@@ -1,0 +1,42 @@
+RQ:especificar funcionalidades en detalle donde tiene entradas y salidas
+
+-------------------------------------------------------------------------------------------------
+PROYECTO 1:
+
+RQ01:en el proyecto deben manejarse minimo 5 o mas especialidades ppara asignara al
+medico experto
+
+RQ02:un paciente puede solicitar una cita medica de minimo 40 minutos iniciando 7 am la
+primera y cerrando 8 pm se cierra el sistemaRQ04: el paciente puede solicitar varias citas con diferentes especialista
+no puedo tener dos citas que esten activas al mismo tiempo
+
+RQ03:cualquier paciente tiene la posibilidad de borar una cita escribiendo la razon para no asistir
+
+RQ04:cualquier paciente tiene ñla posibilidad de reasignar una cita en caso de que no pueda asistir poniendo una fecha posterior a la cita
+
+RQ05:despues de programar una cita se debe enviar via correo la informacion de la cita
+
+RQ06:la solicitud de cita se podra realizar por nombre de medico
+
+RQ07:la informacion debera persistir en archivos binarios en txt usando la libreria www.losarchivosbinarios.com compartida en clase
+
+----------------------------------------------------------------------------------------------------
+proyecto 2:
+
+RQ01:En la aplicacion todo medico debe autenticarse con numero de cedula y contraseña
+y en caso de no exisatir debera permitirse su registro con los datos numero de
+autenticacion ,nombre y apellidos,barrio,telefono ,fecha de nacimiento y especialidad
+
+RQ02:le tiene que permitir abrir el listado de las citas por dia donde debe vializar identificacion, la informacion nombre y apellido del paciente
+
+RQ03:el medico podra seleccionar un paciemnte para su atencion generando la descripcion de la cita y la formula medica y los examenes recomendados que deberan llegar via correo electronico al paciente
+debera por cerrar la cita al finalizar la atencion
+
+RQ04:un medico podra cerra una cita con observaciones de inasistencias cuando un paciente no se presente
+estados de ciita
+
+RQ05:el medico podra  visualizara el  listado  de citas atendidas y el numero de inasistencias seleccionando una fecha
+
+RQ06:la informacion debera persistir en archivos binarios en txt usando la libreria www.losarchivosbinarios.com compartida en clase
+
+---------------------------------------------------------------------------------------------------
